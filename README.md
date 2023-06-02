@@ -1,6 +1,6 @@
 # README.md
 # 💫About Me :
-# Special
+# Read.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a 	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white sth either a game or a package.
